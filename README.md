@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yakoob</h1>
-<h3 align="center">A DevOps Engineer at 3CS Solutions</h3>
+<h3 align="center">DevOps Engineer at 3CS Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yakoob3cs&label=Profile%20views&color=0e75b6&style=flat" alt="yakoob3cs" /> </p>
 
